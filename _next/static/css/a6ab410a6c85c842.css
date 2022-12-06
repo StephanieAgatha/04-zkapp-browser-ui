@@ -149,11 +149,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner2.9ebd8b43.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 310px;
-	height: 170px;
+	width: 290px;
+	height: 110px;
 	position: absolute;
 	left: -17px;
-	top: 5px;
+	top: -17px;
 	background-position: top left;
 }
 .Home_banner2__nEGJg {
@@ -189,8 +189,8 @@ a {
 	width: 220px;
 	height: 220px;
 	position: absolute;
-	right: 0;
-	top: -55px;
+	right: -30px;
+	top: -85px;
 	background-position: top right;
   }
 .Home_connectBtn__q4_OB:hover {
@@ -200,8 +200,8 @@ a {
 	width: 220px;
 	height: 220px;
 	position: absolute;
-	right: 0;
-	top: -55px;
+	right: -30px;
+	top: -85px;
 	background-position: top right;
 }
 
@@ -212,8 +212,8 @@ a {
 	width: 220px;
 	height: 220px;
 	position: absolute;
-	right: 0;
-	top: -55px;
+	right: -30px;
+	top: -85px;
 	background-position: top right;
 }
 
@@ -471,8 +471,8 @@ a {
 	width: 290px;
 	height: 270px;
 	position: absolute;
-	right: 10px;
-	top: -90px;
+	right: -66px;
+	top: -139px;
 }
 
 
@@ -484,8 +484,8 @@ a {
 	width: 290px;
 	height: 270px;
 	position: absolute;
-	right: 10px;
-	top: -90px;
+	right: -66px;
+	top: -139px;
 }
 
 .Home_getBtnDisable__ASdt7 {
@@ -496,8 +496,8 @@ a {
 	width: 290px;
 	height: 270px;
 	position: absolute;
-	right: 10px;
-	top: -90px;
+	right: -66px;
+	top: -139px;
 }
 
 .Home_txtState__XfTmO {
@@ -527,8 +527,8 @@ a {
 .Home_txtAddrs__0j0LW {
 	display: block;
 	position: absolute;
-	left: 529px;
-	top: 365px;
+	left: 539px;
+	top: 390px;
 	color: white;
 	font-size: 16px;
 	text-align: center;
@@ -539,8 +539,8 @@ a {
 .Home_addrs__ciNE1 {
 	display: block;
 	position: absolute;
-	left: 431px;
-	top: 362px;
+	left: 437px;
+	top: 387px;
 	color: white;
 	font-size: 18px;
 	text-align: center;
