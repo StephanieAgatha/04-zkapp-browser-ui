@@ -196,14 +196,14 @@ a {
 
 .Home_banner5__DI0cy {
 	display: block;
-
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/faucetbutton2.4c5a914c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 296px;
-	height: 190px;
+	width: 226px;
+	height: 150px;
 	position: absolute;
-	right: 205px;
-	top: -32px;
+	right: 189px;
+	top: -11px;
 	background-position: top left;
 }
 
